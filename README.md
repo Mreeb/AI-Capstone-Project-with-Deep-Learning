@@ -5,3 +5,5 @@ In this module, you will get introduced to the problem that we will try to solve
 images, and visualize them.
 Module 2:
 In this Module, you will mainly learn how to process image data and prepare it to build a classifier using pre-trained models.
+Module 3:
+In this Module, in the PyTorch part, you will learn how to build a linear classifier. In the Keras part, you will learn how to build an image classifier using the ResNet50 pre-trained model.
